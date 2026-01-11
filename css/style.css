@@ -164,10 +164,6 @@ body {
   color: var(--main-color);
 }
 
-#header__link-blue {
-  color: var(--main-color);
-}
-
 #header__btn-blue:hover,
 #header__btn-blue:focus {
   background-color: #d6dbff;
