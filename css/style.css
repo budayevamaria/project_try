@@ -146,6 +146,8 @@ body {
   &::before {
     position: absolute;
     left: -20px;
+    top: 50%;
+    transform: translateY(-50%);
     content: "";
     display: block;
     height: 16px;
@@ -558,3 +560,4 @@ body {
     margin-top: 40px;
   }
 }
+
